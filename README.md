@@ -39,5 +39,7 @@ Path:
 ```
 
 ### List
-1. nerdtree: https://github.com/scrooloose/nerdtree
-2. vim-go: https://github.com/fatih/vim-go
+1. nerdtree: https://github.com/scrooloose/nerdtree  #file explorer
+2. vim-go: https://github.com/fatih/vim-go  #golang plugin
+3. vim-airline: https://github.com/bling/vim-airline  #a fancy but useful status bar
+4. vim-commentary: https://github.com/tpope/vim-commentary  #make commenting your code easy
