@@ -35,9 +35,13 @@ call vundle#begin(path)
 Plugin 'gmarik/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'fatih/vim-go'
+Plugin 'tpope/vim-commentary'
+Plugin 'bling/vim-airline'
 call vundle#end()
 filetype plugin indent on
 
+nmap <BS> gcc
+vmap <BS> gc
 nnoremap <leader>j :NERDTreeToggle<cr>:set nu<cr>
 nnoremap <leader>h :tabp<cr>
 nnoremap <leader>l :tabn<cr>
