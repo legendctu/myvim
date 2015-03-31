@@ -22,7 +22,7 @@ Path:
 - *NIX: ~/.vim/bundle
 
 ```bash
-git clone git clone https://github.com/gmarik/Vundle.vim.git
+git clone https://github.com/gmarik/Vundle.vim.git
 ```
 
 ### 2. Edit vimrc
