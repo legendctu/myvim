@@ -43,3 +43,4 @@ Path:
 2. vim-go: https://github.com/fatih/vim-go  #golang plugin
 3. vim-airline: https://github.com/bling/vim-airline  #a fancy but useful status bar
 4. vim-commentary: https://github.com/tpope/vim-commentary  #make commenting your code easy
+5. vim-expand-region: https://github.com/terryma/vim-expand-region  #quickly select content in the quotes
