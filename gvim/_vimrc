@@ -65,6 +65,7 @@ colorscheme torte
 set fileencodings=utf8
 set number
 set cursorline
+set cursorcolumn
 set ruler
 set shiftwidth=4
 set softtabstop=4
