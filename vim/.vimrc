@@ -34,6 +34,7 @@ map J <Plug>(expand_region_shrink)
 syntax on
 set number
 set cursorline
+set cursorcolumn
 set ruler
 set shiftwidth=4
 set softtabstop=4
